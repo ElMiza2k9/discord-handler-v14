@@ -1,0 +1,20 @@
+{
+	"name": "djs-v14",
+	"version": "1.0.0",
+	"description": "Command handler para discord.js v14",
+	"main": "src/index.ts",
+	"author": "drgato",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"discord.js": "^14.0.0-dev.1650413390-585169f",
+		"dotenv": "^16.0.0",
+		"ts-node": "^10.7.0"
+	},
+	"devDependencies": {
+		"typescript": "^4.6.3"
+	},
+	"engines": {
+		"node": "16.13.x"
+	}
+}
